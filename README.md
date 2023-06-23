@@ -2,6 +2,8 @@
 
 This is the README for the Project Recipe Search 2.0 application. The application is developed using React, Vite, and React Router. It allows users to search for recipes by entering ingredients or recipe names into the search bar. The application leverages the Font Awesome library for icons and integrates with the Edamam Recipe Search API to fetch recipe data.
 
+![WebSite Print](./public/img/reciperadar.webp)
+
 ## Prerequisites
 
 Before proceeding, make sure you have the following software installed on your system:
@@ -56,8 +58,6 @@ yarn dev
 ```
 
 This will start the development server and open the application in your default browser. Now you can use the Recipe Search application locally on your computer.
-
-![WebSite Print](./public/img/reciperadar.webp)
 
 ## License
 
