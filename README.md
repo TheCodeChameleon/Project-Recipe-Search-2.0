@@ -57,7 +57,7 @@ yarn dev
 
 This will start the development server and open the application in your default browser. Now you can use the Recipe Search application locally on your computer.
 
-    ![WebSite Print](./public/img/reciperadar.webp)
+![WebSite Print](./public/img/reciperadar.webp)
 
 ## License
 
